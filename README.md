@@ -17,7 +17,6 @@
 
 ---
 
-
 ## 最新进展 / Latest Update — V0.5 关系显性化 + 金星 V05/T1 试跑
 
 2026-06-24，《生万物》V0.5 / T1 新增显式关系层：
@@ -221,10 +220,6 @@ Infinite Phenomena (Top-N actionable research questions)
 
 ## 许可 / License
 
-**禁止商用** — 本仓库所有内容采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 许可证。
-
-**No commercial use** — All content in this repository is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
-
 © 王润圆 (Wang Runyuan) 2026. 保留所有权利 / All rights reserved.
 
 - ✅ 允许 / Allowed：分享、改编、学习研究使用
@@ -239,9 +234,15 @@ Infinite Phenomena (Top-N actionable research questions)
 *Powered by 灵台 LingTai*
 
 ---
+---
 
-> **禁止抄袭商用，违者等同盗法，因果自负**
-> **Plagiarism and commercial use are strictly prohibited. Violators shall be deemed as thieves of sacred scriptures and shall face divine karmic retribution themselves.**
->
-> 公益开源项目，禁止商用 | Public welfare open-source project, commercial use prohibited
-> License: CC BY-NC 4.0
+## 📜 许可 · License
+
+本项目为公益开源，采用 **MIT 许可证**：
+
+- ✅ **随意使用**：学习、研究、转载、二次创作、**商用也可以** —— 保留原作者署名（王润圆 Runyuan Wang）就好啦 💛
+- 🌱 开源是为了帮助更多的人。
+
+This project is public-welfare open source under the **MIT License** — free for anything, **including commercial use**; just keep the original credit ("Runyuan Wang") 💛
+
+© 2026 王润圆 Runyuan Wang · MIT License
