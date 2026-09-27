@@ -234,7 +234,6 @@ Infinite Phenomena (Top-N actionable research questions)
 *Powered by 灵台 LingTai*
 
 ---
----
 
 ## 📜 许可 · License
 
